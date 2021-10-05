@@ -1,4 +1,5 @@
-import { Search, ShoppingCartOutlined, Badge } from "@mui/icons-material/";
+import { Badge } from "@mui/material";
+import { Search, ShoppingCartOutlined } from "@mui/icons-material/";
 import React from "react";
 import styled from "styled-components";
 import { mobile } from "../responsive";
@@ -39,6 +40,7 @@ const SearchContainer = styled.div`
 
 const Input = styled.input`
   border: none;
+  outline:none;
   ${mobile({ width: "50px" })}
 `;
 

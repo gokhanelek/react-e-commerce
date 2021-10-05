@@ -7,7 +7,7 @@ import { mobile } from "../responsive";
 const Container = styled.div`
   height: 60px;
   margin-bottom: 15px;
-  ${mobile({ height: "50px" })}
+  ${mobile({ height: "60px" })}
 `;
 
 const Wrapper = styled.div`
@@ -47,6 +47,7 @@ const Input = styled.input`
 const Center = styled.div`
   flex: 1;
   text-align: center;
+  ${mobile({ display: "none" })}
 `;
 
 const Logo = styled.h1`

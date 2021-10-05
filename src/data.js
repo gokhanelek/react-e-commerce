@@ -1,7 +1,7 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://media.glamour.com/photos/598e048762e26f7ab4d52f5e/master/w_320%2Cc_limit/reformation-skirt-2.jpg",
+    img: "https://cdn.dsmcdn.com/mnresize/300/-/ty185/product/media/images/20210927/17/136853443/79917696/1/1_org_zoom.jpg",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://productimages.hepsiburada.net/s/96/300/110000039401036.jpg",
   },
   {
     id: 8,

@@ -1,6 +1,6 @@
 # Getting Started with API
 
-This project was create NodeJs ,Express.js
+This project was create Node.js, Express.js
 
 ## Available Scripts
 
